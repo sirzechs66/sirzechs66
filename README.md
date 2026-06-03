@@ -5,11 +5,11 @@
       <img src="https://github.com/sirzechs66.png" width="160" style="border-radius: 50%; border: 4px solid white; box-shadow: 0 0 20px rgba(0,0,0,0.5);" />
       <h1 style="color: white; text-shadow: 2px 2px 4px black;">Kartik</h1>
       <p style="color: white; text-shadow: 1px 1px 2px black; font-size: 1.2em;">
-        Polymath · AI/ML Developer · AI Engineer · Python Dev
+        Polymath · AI/ML Developer · Results‑Driven Builder
       </p>
     </td>
   </table>
-</table>
+<tr>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sirzechs66&label=Profile+Views&color=blue&style=flat" alt="Profile views" />
@@ -63,10 +63,10 @@
 
 ---
 
-### 📈 GitHub Contribution Graph
+### 📈 GitHub Contribution Graph (stable version)
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/sirzechs66" alt="Kartik's GitHub Contribution Graph" />
+  <img src="https://github-contributions-api.deno.dev/sirzechs66.svg" alt="Kartik's GitHub Contribution Graph" />
   <p><i>GitHub-style contribution calendar – automatically updated with your latest commits.</i></p>
 </div>
 
