@@ -85,6 +85,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#46295](https://github.com/huggingface/transformers/issues/46295#issuecomment-4582308779) in [huggingface/transformers](https://github.com/huggingface/transformers)
+2. ❌ Closed PR [#46098](https://github.com/huggingface/transformers/pull/46098) in [huggingface/transformers](https://github.com/huggingface/transformers)
+3. 🗣 Commented on [#46098](https://github.com/huggingface/transformers/pull/46098#issuecomment-4534320963) in [huggingface/transformers](https://github.com/huggingface/transformers)
+4. 🗣 Commented on [#46098](https://github.com/huggingface/transformers/pull/46098#issuecomment-4501445242) in [huggingface/transformers](https://github.com/huggingface/transformers)
+5. 🗣 Commented on [#46098](https://github.com/huggingface/transformers/pull/46098#issuecomment-4498058613) in [huggingface/transformers](https://github.com/huggingface/transformers)
 <!--END_SECTION:activity-->
 
 ---
