@@ -11,6 +11,8 @@ permissions:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - uses: actions/checkout@v4
 
@@ -25,7 +27,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
@@ -33,10 +35,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update activity
-        uses: jamesgeorge007/github-activity-readme@master
+        uses: jamesgeorge007/github-activity-readme@v0.5.0
         with:
           GH_USERNAME: ${{ github.repository_owner }}
-          README_PATH: README.md
+          TARGET_FILE: README.md
           COMMIT_MSG: "chore: update recent activity"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
